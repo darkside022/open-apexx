@@ -31,3 +31,5 @@ Contributing
 ------------
 
 If you want to contribute to this project, simply fork the repository and create a pull request.
+
+Community forums: http://www.stylemotion.de/forum/
